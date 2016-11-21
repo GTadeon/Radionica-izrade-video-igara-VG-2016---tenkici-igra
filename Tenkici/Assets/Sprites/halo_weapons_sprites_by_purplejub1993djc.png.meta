@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 5d32866be675bd54bbb65ed8e49043c8
+timeCreated: 1479563694
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: halo_weapons_sprites_by_purplejub1993djc_0
+    21300002: halo_weapons_sprites_by_purplejub1993djc_1
+    21300004: halo_weapons_sprites_by_purplejub1993djc_2
+    21300006: halo_weapons_sprites_by_purplejub1993djc_3
+    21300008: halo_weapons_sprites_by_purplejub1993djc_4
+    21300010: halo_weapons_sprites_by_purplejub1993djc_5
+    21300012: halo_weapons_sprites_by_purplejub1993djc_6
+    21300014: halo_weapons_sprites_by_purplejub1993djc_7
+    21300016: halo_weapons_sprites_by_purplejub1993djc_8
+    21300018: halo_weapons_sprites_by_purplejub1993djc_9
+    21300020: halo_weapons_sprites_by_purplejub1993djc_10
+    21300022: halo_weapons_sprites_by_purplejub1993djc_11
+    21300024: halo_weapons_sprites_by_purplejub1993djc_12
+    21300026: halo_weapons_sprites_by_purplejub1993djc_13
+    21300028: halo_weapons_sprites_by_purplejub1993djc_14
+    21300030: halo_weapons_sprites_by_purplejub1993djc_15
+    21300032: halo_weapons_sprites_by_purplejub1993djc_16
+    21300034: halo_weapons_sprites_by_purplejub1993djc_17
+    21300036: halo_weapons_sprites_by_purplejub1993djc_18
+    21300038: halo_weapons_sprites_by_purplejub1993djc_19
+    21300040: halo_weapons_sprites_by_purplejub1993djc_20
+    21300042: halo_weapons_sprites_by_purplejub1993djc_21
+    21300044: halo_weapons_sprites_by_purplejub1993djc_22
+    21300046: halo_weapons_sprites_by_purplejub1993djc_23
+    21300048: halo_weapons_sprites_by_purplejub1993djc_24
+    21300050: halo_weapons_sprites_by_purplejub1993djc_25
+    21300052: halo_weapons_sprites_by_purplejub1993djc_26
+    21300054: halo_weapons_sprites_by_purplejub1993djc_27
+    21300056: halo_weapons_sprites_by_purplejub1993djc_28
+    21300058: halo_weapons_sprites_by_purplejub1993djc_29
+    21300060: halo_weapons_sprites_by_purplejub1993djc_30
+    21300062: halo_weapons_sprites_by_purplejub1993djc_31
+    21300064: halo_weapons_sprites_by_purplejub1993djc_32
+    21300066: halo_weapons_sprites_by_purplejub1993djc_33
+    21300068: halo_weapons_sprites_by_purplejub1993djc_34
+    21300070: halo_weapons_sprites_by_purplejub1993djc_35
+    21300072: halo_weapons_sprites_by_purplejub1993djc_36
+    21300074: halo_weapons_sprites_by_purplejub1993djc_37
+    21300076: halo_weapons_sprites_by_purplejub1993djc_38
+    21300078: halo_weapons_sprites_by_purplejub1993djc_39
+    21300080: halo_weapons_sprites_by_purplejub1993djc_40
+    21300082: halo_weapons_sprites_by_purplejub1993djc_41
+    21300084: halo_weapons_sprites_by_purplejub1993djc_42
+    21300086: halo_weapons_sprites_by_purplejub1993djc_43
+    21300088: halo_weapons_sprites_by_purplejub1993djc_44
+    21300090: halo_weapons_sprites_by_purplejub1993djc_45
+    21300092: halo_weapons_sprites_by_purplejub1993djc_46
+    21300094: halo_weapons_sprites_by_purplejub1993djc_47
+    21300096: halo_weapons_sprites_by_purplejub1993djc_48
+    21300098: halo_weapons_sprites_by_purplejub1993djc_49
+    21300100: halo_weapons_sprites_by_purplejub1993djc_50
+    21300102: halo_weapons_sprites_by_purplejub1993djc_51
+    21300104: halo_weapons_sprites_by_purplejub1993djc_52
+    21300106: halo_weapons_sprites_by_purplejub1993djc_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 141
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 141
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 141
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 141
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 141
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 141
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 141
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 140
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 120
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 120
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 120
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 121
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 121
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 121
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 66
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 94
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 104
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 99
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 93
+        width: 66
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 94
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 94
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 71
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 71
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 71
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 71
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 71
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 71
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 71
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_39
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 71
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 71
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_42
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 71
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_43
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 70
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 10
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 15
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_46
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 80
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_47
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 41
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_48
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 42
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 20
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 10
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_51
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 14
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_52
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 16
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: halo_weapons_sprites_by_purplejub1993djc_53
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 15
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
